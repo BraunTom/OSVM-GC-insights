@@ -18,5 +18,5 @@ drawOn: aCanvas
 		color: Color black.
 		
 	aCanvas 
-		drawString: (self occupationPercentage * 100) truncated asString
+		drawString: (self occupationPercentage * 100) truncated asString , '%'
 		at:self bounds center

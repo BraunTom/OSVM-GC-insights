@@ -3,10 +3,7 @@
 		"open" : "WoC 11/22/2022 00:16" },
 	"instance" : {
 		"buildWith:" : "WoC 11/22/2022 02:14",
-		"createTextField:with:" : "WoC 11/22/2022 00:39",
-		"displayCurrentState" : "WoC 9/11/2022 23:20",
-		"displayOldSpace" : "WoC 9/30/2022 14:40",
-		"displayYoungSpace" : "WoC 9/22/2022 01:32",
+		"createTextField:with:" : "WoC 11/22/2022 12:42",
 		"edenMorph" : "WoC 11/22/2022 01:14",
 		"edenMorph:" : "WoC 11/22/2022 01:14",
 		"edenMorphVisualisation" : "WoC 11/22/2022 01:20",
@@ -24,6 +21,6 @@
 		"segments" : "WoC 9/30/2022 13:54",
 		"stepTime" : "WoC 11/22/2022 00:46",
 		"updateEdenOccupacy" : "WoC 11/22/2022 01:41",
-		"updateOldSpaceOccupacy" : "WoC 11/22/2022 02:09",
+		"updateOldSpaceOccupacy" : "WoC 11/22/2022 13:34",
 		"updateStats" : "WoC 11/22/2022 02:06",
 		"wantsSteps" : "WoC 11/22/2022 00:31" } }
