@@ -1,0 +1,15 @@
+{
+	"category" : "GC-Insights",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"occupationPercentage",
+		"limit" ],
+	"name" : "GIOccupationMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

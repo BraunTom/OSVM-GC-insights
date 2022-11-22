@@ -1,0 +1,16 @@
+{
+	"category" : "GC-Insights",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gcStats",
+		"edenMorph",
+		"oldSpaceMorphs" ],
+	"name" : "GIBrowser",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+oldSpaceVisualisation
+
+	^ self oldSpaceMorphs

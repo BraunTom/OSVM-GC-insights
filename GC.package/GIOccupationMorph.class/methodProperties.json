@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"drawOn:" : "WoC 11/22/2022 02:12",
+		"emptyColor" : "WoC 9/29/2022 02:17",
+		"filledColor" : "WoC 9/29/2022 02:17",
+		"initialize" : "WoC 11/22/2022 01:36",
+		"limit" : "WoC 11/22/2022 01:23",
+		"limit:" : "WoC 11/22/2022 01:23",
+		"occupationPercentage" : "WoC 9/29/2022 01:19",
+		"occupationPercentage:" : "WoC 9/29/2022 02:19",
+		"updateFrom:" : "WoC 9/30/2022 14:42" } }

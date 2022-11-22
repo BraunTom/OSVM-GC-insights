@@ -1,0 +1,4 @@
+accessing
+filledColor
+
+	^ Color green

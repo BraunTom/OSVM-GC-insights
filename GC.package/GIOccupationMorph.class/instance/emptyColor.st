@@ -1,0 +1,4 @@
+accessing
+emptyColor
+
+	^ Color red

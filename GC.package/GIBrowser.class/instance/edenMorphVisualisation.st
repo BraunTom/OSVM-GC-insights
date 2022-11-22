@@ -1,0 +1,4 @@
+accessing
+edenMorphVisualisation
+
+	^ {self edenMorph}
