@@ -1,4 +1,4 @@
 accessing
 memoryVisualisation
 
-	^ {Morph new}
+	^ {GISegmentVisualization segmentData: self memoryState}
