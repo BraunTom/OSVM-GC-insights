@@ -1,0 +1,16 @@
+{
+	"category" : "GC-Insights",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"memoryState",
+		"memoryInfo",
+		"listIndex" ],
+	"name" : "GIMemoryBrowser",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+memoryState
+
+	^ memoryState

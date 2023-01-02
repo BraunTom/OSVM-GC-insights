@@ -1,0 +1,4 @@
+accessing
+memoryVisualisation
+
+	^ {Morph new}

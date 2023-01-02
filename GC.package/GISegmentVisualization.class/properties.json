@@ -1,0 +1,14 @@
+{
+	"category" : "GC-Insights",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GISegmentVisualization",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
